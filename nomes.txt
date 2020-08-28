@@ -1,5 +1,7 @@
 Michael da Costa Móra
 Jéssica Rodrigues Freua
+Marlize Ramos Batista
+elise scheibel prezzi
 Juliano Jardim
 Rafael Ferreira Dornelles
 Larissa Magistrali
@@ -9,9 +11,4 @@ Larissa Magistrali
 Pedro Andrades
 Diego Klein
 Kelly Prado Figueira    
-<<<<<<< HEAD
-Jéssica Rodrigues Freua
-=======
-Jéssica Rodrigues Freua
-Pedro Henrique Mietlicki
->>>>>>> 7d2aa3721136d1885b1f927e5feb06471e066cc9
+
