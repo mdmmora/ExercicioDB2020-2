@@ -9,4 +9,9 @@ Larissa Magistrali
 Pedro Andrades
 Diego Klein
 Kelly Prado Figueira    
+<<<<<<< HEAD
 Jéssica Rodrigues Freua
+=======
+Jéssica Rodrigues Freua
+Pedro Henrique Mietlicki
+>>>>>>> 7d2aa3721136d1885b1f927e5feb06471e066cc9
