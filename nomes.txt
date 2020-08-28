@@ -1,12 +1,8 @@
 Michael da Costa Móra
-<<<<<<< HEAD
-Jéssica Rodrigues Freua
-=======
 Juliano Jardim
 Rafael Ferreira Dornelles
 Larissa Magistrali
 Nicolas
 Larissa Magistrali
 Pedro Andrades
->>>>>>> 7916d7120ef5c76c83fde6292bb61200b7489795
-
+Diego Klein
